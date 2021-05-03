@@ -1,0 +1,7 @@
+name: ChickenWars
+main: me.Jeremaster101.ChickenWars.Main
+version: 2.0
+commands:
+   cw:
+      description: Type /cw help for help
+      usage: /<command>
